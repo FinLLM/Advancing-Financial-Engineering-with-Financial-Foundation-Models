@@ -4,8 +4,11 @@
   
 **A Survey on Financial Foundation Models**  
 
-</div align="center">
+<div align="center">
+  <img src="fig/model.jpg" alt="FinLLM Framework" width="600px">
+</div>
 
+</div>
 
 ## 📖 Table of contents
 - [Awesome Papers](#awesome-papers)
